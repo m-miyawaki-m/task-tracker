@@ -1,4 +1,4 @@
-以下は、このプロジェクトのREADMEファイルの例です。
+https://github.com/m-miyawaki-m/task-tracker
 
 ---
 
