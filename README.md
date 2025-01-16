@@ -173,7 +173,3 @@ task-tracker/
 
 ## 貢献
 バグ報告や新機能の提案は、[Issues](https://github.com/m-miyawaki-m/task-tracker-cli/issues)ページから行ってください。プルリクエストも歓迎します！
-
----
-
-このREADMEをプロジェクトのルートディレクトリに配置すれば、他の人がプロジェクトの使い方を理解しやすくなります。必要に応じて調整してください！
